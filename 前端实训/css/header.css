@@ -1,0 +1,81 @@
+.header{
+    width: 1525px;
+    height: 141px;
+    background-color: white;
+}
+.header .img1{
+    width: 192px;
+    height: 120px;
+    margin-left: 220px;
+    margin-top: 10px;
+    display: block;
+    float: left;
+}
+.header .header_mid{
+    position: relative;
+}
+.header .header_search{
+    border: 1px solid black;
+    font-size: 12px;
+    display: block;
+    float: left;
+    margin-top: 50px;
+    margin-left: 90px;
+}
+.header_mid a{
+    text-decoration: none;
+    color: black;
+}
+.header_mid a:hover{
+    color: rgb(216, 58, 58);
+}
+.header_mid .on{
+    display: inline-block;
+    top: 120px;
+    position: absolute;
+    left: 500px;
+}
+.header_mid .tw{
+    display: inline-block;
+    top: 120px;
+    position: absolute;
+    left: 580px;
+}
+.header_mid .th{
+    display: inline-block;
+    top: 120px;
+    position: absolute;
+    left: 660px;
+}
+.header_mid .fo{
+    display: inline-block;
+    top: 120px;
+    position: absolute;
+    left: 710px;
+}
+.header_mid .fi{
+    display: inline-block;
+    top: 120px;
+    position: absolute;
+    left: 775px; 
+}
+.header_mid .si{
+    display: inline-block;
+    top: 120px;
+    position: absolute;
+    left: 860px; 
+}
+.header_mid .se{
+    display: inline-block;
+    top: 120px;
+    position: absolute;
+    left: 950px; 
+}
+.header .img2{
+    width: 192px;
+    height: 120px;
+    margin-left: 90px;
+    margin-top: 10px;
+    display: block;
+    float: left;
+}

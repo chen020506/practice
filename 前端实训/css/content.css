@@ -1,0 +1,22 @@
+.content h3{
+    font-size: 30px; 
+}
+.content{
+    width: 1525px;
+}
+.content .sp_one{
+    margin-left: 170px;
+}
+.content .sp_two{
+    margin-left: 170px;
+}
+.content .sp_three{
+    margin-left: 170px;
+}
+.content img{
+    margin-top: 20px;
+    margin-left: 30px;
+    width: 250px;
+    height: 210px;
+    border: 1px black solid;
+}
